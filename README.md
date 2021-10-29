@@ -8,7 +8,7 @@ This project analyzes movie datasets from multiple databases to come up with a b
 
 ## Business Problem & Key Questions
 
-Microsoft wants to create a new movie studio but requires data-driven recommendations in order to decide what types of films to produce.
+Microsoft wants to break into the film industry but requires data-driven recommendations to ensure a profitable venture. Film production, especially with start-up costs, is expensive. The objective is to maximize returns while minimizing risk. Heavy competition abounds in the film industry with the likes of behemoths such as Buena Vista and Universal Pictures. How can Microsoft secure success?
 
 * *Which films in the past decade have made the most profit?*
 * *What are the genres of these films?*
@@ -21,8 +21,10 @@ Microsoft wants to create a new movie studio but requires data-driven recommenda
 
 ## Data Sources & Methods
 
-Databases: IMDB, TheMovieDB, Box Office Mojo, the Numbers, and Rotten Tomatoes.
-
+Databases: IMDB, TheMovieDB, Box Office Mojo, the Numbers, and Rotten Tomatoes
+<br>
+Datasets: [data folder](https://github.com/aishabaitemirovaothman/phase1_project_group6/tree/main/data) in the repository
+<br>
 Methods: Exploratory Data Analysis (EDA)
 
 ## Data Understanding & Analysis
