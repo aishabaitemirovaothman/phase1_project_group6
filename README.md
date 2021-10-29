@@ -63,7 +63,6 @@ acquired by Microsoft to boost content production.
 <img width="1005" alt="Screen Shot 2021-10-29 at 12 44 28 PM" src="https://user-images.githubusercontent.com/79756630/139489846-fc7cfb15-ac9f-4c61-b36e-81837ef3597e.png">
 
 ## Conclusions
-This analysis leads to three recommendations for Microsoft's new movie studio.
-* The consistent trend of movies in the last decade have geared towards drama, action, and comedy, or a combination of the three. Therefore, we recommend Microsoft focus on making movies like this because of the correlation between these three genres and profits.
-* Any action/scifi/adventures movies made should be based upon Microsoft properties (Halo, Minecraft, etc). The highest grossing films are all established properties with large fanbases, and it is our recommendation that Microsoft follow suit with their own. This will ensure Microsoft isn't burdened with license and copyright fees for action content production.
-* Microsoft should strongly consider acquiring an additional studio for content production. The most successful studios are all under a parent company, and Microsoft would greatly benefit by following their example.
+The consistent trend of movies in the last decade have geared towards drama, action, and comedy, or a combination of the three. Therefore, we recommend Microsoft focus on making movies like this because of the correlation between these three genres and profits.
+    Any action/scifi/adventures movies made should be based upon Microsoft properties (Halo, Minecraft, etc). The highest grossing films are all established properties with large fanbases, and it is our recommendation that Microsoft follow suit with their own. This will ensure Microsoft isn't burdened with license and copyright fees for action content production.
+    Microsoft should strongly consider acquiring an additional studio for content production. The most successful studios are all under a parent company, and Microsoft would greatly benefit by following their example.
